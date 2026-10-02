@@ -104,7 +104,7 @@ function App() {
             </svg>
           </div>
           <div>
-            <h1 className="text-xl font-bold bg-gradient-to-r from-emerald-400 to-blue-400 bg-clip-text text-transparent">FreeVPN</h1>
+            <h1 className="text-xl font-bold bg-gradient-to-r from-emerald-400 to-blue-400 bg-clip-text text-transparent">VPN от Антона</h1>
             <p className="text-xs text-gray-400">Безопасный & Бесплатный</p>
           </div>
         </div>
@@ -297,7 +297,7 @@ function App() {
       {/* Footer */}
       <footer className="w-full max-w-4xl mx-auto px-4 py-4 text-center relative z-10">
         <p className="text-xs text-gray-500">
-          FreeVPN © 2024 • Ваша конфиденциальность — наш приоритет
+          VPN от Антона © 2024 • Ваша конфиденциальность — наш приоритет
         </p>
         <div className="flex items-center justify-center gap-4 mt-2">
           <span className="text-xs text-gray-600 flex items-center gap-1">
